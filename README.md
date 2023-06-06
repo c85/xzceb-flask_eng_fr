@@ -2,8 +2,6 @@
 ![cognitiveclass.ai logo](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0222EN-SkillsNetwork/images/IDSN-logo.png)
 
 ## Objectives
-Estimated time needed: 60 minutes
-
 In this assignment you will:
 
 * Use the deep_translator python package for the translation.
