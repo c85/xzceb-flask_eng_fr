@@ -1,4 +1,4 @@
-# Peer Review Assignment
+# Hands-on Lab: Python Web Application Creation and Deployment
 ![cognitiveclass.ai logo](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0222EN-SkillsNetwork/images/IDSN-logo.png)
 
 ## Objectives
