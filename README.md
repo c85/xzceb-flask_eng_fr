@@ -11,3 +11,6 @@ In this assignment you will:
 * Write unit tests to test the above functions.
 * Run unit tests and interpret the results.
 * Package the above functions and tests as a standard python package.
+
+## Dockerfile Deployment
+https://flask-docker-demo-translator.13ce52ekaln8.us-south.codeengine.appdomain.cloud
